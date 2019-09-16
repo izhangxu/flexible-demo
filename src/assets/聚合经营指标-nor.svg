@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>聚合经营指标-nor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="49"></rect>
+    </defs>
+    <g id="全流程" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.1-筛选" transform="translate(-329.000000, -219.000000)">
+            <rect id="bg" fill="#F7F7F7" x="0" y="0" width="1205" height="667"></rect>
+            <g id="底部导航-TabBar/默认备份-2" transform="translate(25.000000, 211.000000)">
+                <g id="底部背景">
+                    <g id="Background">
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <use stroke-opacity="0.07" stroke="#000000" stroke-width="1" fill-opacity="0.02" fill="#000000" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M309.428571,14.1071429 L304,14.1071429 L304,24.2857143 L309.428571,24.2857143 L309.428571,14.1071429 Z M316.214286,8 L310.785714,8 L310.785714,24.2857143 L316.214286,24.2857143 L316.214286,8 Z M304,25.6428571 L323,25.6428571 L323,27 L304,27 L304,25.6428571 Z M317.571429,24.2857143 L323,24.2857143 L323,11.3928571 L317.571429,11.3928571 L317.571429,24.2857143 Z" id="聚合经营指标-nor" fill="#2474FF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

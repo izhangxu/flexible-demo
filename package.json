@@ -2,9 +2,21 @@
   "name": "flexible-demo",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "vue serve ./src/main.js"
+  },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^3.11.0"
+    "@vue/cli-service": "^3.11.0",
+    "postcss-pxtorem": "^4.0.1",
+    "sass": "^1.22.12",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "lib-flexible": "^0.3.2",
+    "normalize.css": "^8.0.1"
   }
 }
