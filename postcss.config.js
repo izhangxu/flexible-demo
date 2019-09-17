@@ -4,7 +4,7 @@ module.exports = {
   plugins: [
     pxtorem({
       rootValue: 37.5,
-      propList: ['*'],
+      propList: ['*', '!font*'],
     })
   ]
 }

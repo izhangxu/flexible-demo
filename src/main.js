@@ -2,7 +2,7 @@ import Vue from 'vue';
 import App from './App';
 import 'lib-flexible';
 import 'normalize.css';
-import './app.css';
+import './app.scss';
 import 'font-awesome/css/font-awesome.css';
 
 new Vue({
